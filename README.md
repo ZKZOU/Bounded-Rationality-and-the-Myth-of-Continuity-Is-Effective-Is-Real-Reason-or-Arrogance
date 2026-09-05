@@ -1,5 +1,9 @@
 # Bounded Rationality and the Myth of Continuity Is Effective Is Real Reason or Arrogance
 
+Zou, Zhi Kai
+
+https://orcid.org/0009-0000-4279-1064
+
 > This article critiques the physics community's belief that continuity-based mathematics faithfully represents reality. It argues that "effective is real" overestimates human rationality, that our cognitive and computational limits render all models coarse-grained extrapolations, and that no current formalism—including continuity—will escape the historical fate of being superseded by deeper understanding.
 
 ---
