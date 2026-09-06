@@ -1,4 +1,5 @@
-# Bounded Rationality and the Myth of Continuity Is Effective Is Real Reason or Arrogance
+# Bounded Rationality and the Myth of Continuity from Effective Is Real to Reason or Arrogance
+
 
 Zou, Zhi Kai
 
